@@ -1,0 +1,12 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    mb-discid (0.1.5)
+    rbrainz (0.5.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  mb-discid (~> 0.1.5)
+  rbrainz (~> 0.5.2)
