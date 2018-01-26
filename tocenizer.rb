@@ -70,8 +70,8 @@ module MusicBrainz
 end
 
 def show_help
-  puts 'log_to_toc v0.1 - extracts MusicBrainz TOC and Disc ID from EAC log files.'
-  puts "Usage: log_to_toc [filename]"
+  puts "tocenizer v0.1 - extracts MusicBrainz TOC and Disc ID from EAC log files."
+  puts "Usage: tocenizer [filename]"
   puts "If run without arguments, it will read from stdin. Press Ctrl-C to view results."
   puts "Run with --help to view this message."
 end
